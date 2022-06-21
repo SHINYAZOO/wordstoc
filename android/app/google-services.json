@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "802104267733",
+    "project_id": "wordbox-de10d",
+    "storage_bucket": "wordbox-de10d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802104267733:android:c620c18063afab7f26a35c",
+        "android_client_info": {
+          "package_name": "com.example.wordstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802104267733-v949r0qtl5af39rnpk18og9kb27ogvnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbP8kznOuf1dkVBimQQv5mFrXIpbg2sNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802104267733-v949r0qtl5af39rnpk18og9kb27ogvnu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802104267733-omg0dmvpjbot6mfrla4ntdd5l6gi53h4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wordstock"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
